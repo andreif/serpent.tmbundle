@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>_Serpent</string>
+	<key>ordering</key>
+	<array>
+		<string>78FC54AD-F661-4EED-BB96-2E62F3B8F0CA</string>
+		<string>BA9C6790-C6E0-42F0-92AF-0655F61250FF</string>
+	</array>
+	<key>uuid</key>
+	<string>E067B41E-4689-443A-88D2-C0811035ECEE</string>
+</dict>
+</plist>
